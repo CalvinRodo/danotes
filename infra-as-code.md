@@ -1,6 +1,6 @@
-# Infrastructure as Code/Configuration
+# Infrastructure as Code/Configuration (Terraform)
 
-## Theory
+## Theory ~30 minutes
 
   - Introduction to Terraform 
   - Terraform compared to Cloudformation, Azure Templates, Bash Scripts
@@ -9,9 +9,19 @@
     - **Imperative:** Statements change a programs state.
   - Apply vs Plan
   - Common Pitfalls
-  
-## Hands-On
+  - Input Variables
+    - CLI 
+    - File
+    - Environment
+  - Data Sources
+  - Outputs
+  - Dependencies
+  - Modules
+  - GitOps Flow
+
+## Hands-On ~1 hour (Create an environment to deploy our app to)
 
   - Create a VM In Azure without using a module
   - Transform it into a module
   - Save state in a remote location 
+  - Enable multiple "Environments"

@@ -14,11 +14,6 @@
  
 **12:00** _**Lunch**_  
 **13:00** Managing Secrets
-  - Azure Keyvault
-  - Encryption tools
-  - Environment Variables 
-  - Injecting into containers and vms   
-
 **13:30** Security Scanning *theory*  
 **14:30** _**Break**_  
 **14:45** Security Scanning *hands on*  
@@ -33,7 +28,7 @@
 **10:30** Automated Testing *hands on*  
 **11:30**  Beyond Compliance *examples* - Canadian Digital Services   
 **12:00** _**Lunch**_  
-**13:00** Infrastructure as Code *theory*  
+**13:00** Infrastructure as Code *theory*  - Calvin
 **13:30** Infrastructure as Code *hands on*  
 **14:30** _**Break**_  
 **14:45** Deployment *theory*  
