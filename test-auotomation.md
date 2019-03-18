@@ -21,12 +21,14 @@ In class discussion driven by a deck
 ### End to End Tests
 
   - Why they are important
+  - What do you need to run them
 
 ### Tech Options
   - Cypress.io
   - Selenium
   - Web Driver
   - Appium
+  - Cucumber
 
 ### A11y Testing Tools
   - aXe-Core  
